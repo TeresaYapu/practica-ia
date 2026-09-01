@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "titulo": "tarea 1",
+        "completada": true
+    },
+    {
+        "id": 2,
+        "titulo": "tarea 2",
+        "completada": false
+    }
+]
